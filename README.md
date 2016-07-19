@@ -11,8 +11,9 @@ Specifically, I fed the initial text model articles from GQ and Cosmo so the mod
 
 For further description and my results report, check out my reflection below! 
 
-
-
+___
+___
+___
 
 Battle of the Sexes: Cosmo Versus GQ
 
